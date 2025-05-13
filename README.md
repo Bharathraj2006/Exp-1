@@ -6,39 +6,39 @@ To draw the UML diagram for atm & banking system.
 # SRS (Procedure):
 Create the following diagrams in StarUML:
 
-◉ Use Case Diagram
+1. Use Case Diagram
 
-◉ Class Diagram
+2.Class Diagram
 
-◉ Activity Diagram
+3.Activity Diagram
 
-◉ Package Diagram
+4. Package Diagram
 
-◉ Communication Diagram
+5.Communication Diagram
 
-◉ Sequence Diagram
+6. Sequence Diagram
 
 # DIAGRAMS:
-◉ Use Case Diagram
+## Use Case Diagram
 ![UseCaseDiagram1](https://github.com/user-attachments/assets/3d06630d-5769-4ada-a9c7-6bb7a2930c40)
 
-◉ Class Diagram
+## Class Diagram
 
 ![CLASSDIAGRAM](https://github.com/user-attachments/assets/a1a6e757-4448-4b60-9a94-b3c4a23624d0)
 
-◉ Activity Diagram
+## Activity Diagram
 
 ![ActivityDiagram1](https://github.com/user-attachments/assets/899b02bb-7352-477a-b7f2-f7be53fdca86)
 
-◉ Package Diagram
+## Package Diagram
 
 ![PackageDiagram1](https://github.com/user-attachments/assets/0edb376d-3c8f-482d-841d-def8df8cc1d5)
 
-◉ Communication Diagram
+## Communication Diagram
 
 ![CommunicationDiagram1](https://github.com/user-attachments/assets/9be80c7c-c6e9-4336-bbcb-223151b3fbe1)
 
-◉ Sequence Diagram
+## Sequence Diagram
 
 ![SequenceDiagram1](https://github.com/user-attachments/assets/f917bd0e-c0d3-4c48-ad7e-a2f34598ca00)
 
